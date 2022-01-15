@@ -5,4 +5,4 @@ solve() {
 }
 
 # uncomment before running the script!
-solve
+#solve
